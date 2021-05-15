@@ -27,7 +27,7 @@ I am a **Full-Stack Developer** currently working to gain a *new* long-term posi
 
 ### 👨🏻‍💻 A bit more about me
 
-My previous as well as current professional experience focused on **Frontend Technologies** incorporating a wide variety of tools including Git,Jira and Bitbucket. I take pride in being a developer who is consistently working to better understand software development technologies and one that pays special attention to **Mobile & Web Application Devlopment**. I also greatly enjoy creating detailed and concise **Hybrid Cross-Platform Mobile Application ** using libraries and framework like **React-native** and **ionic**. I have a great foundation in software development and plan to build upon that to continue my growth. My current focus is working to better understand and improve my knowledge of:
+My previous as well as current professional experience focused on **Frontend Technologies** incorporating a wide variety of tools including Git,Jira and Bitbucket. I take pride in being a developer who is consistently working to better understand software development technologies and one that pays special attention to **Mobile & Web Application Devlopment**. I also greatly enjoy creating detailed and concise **Hybrid Cross-Platform Mobile Application** using libraries and framework like **React-native** and **ionic**. I have a great foundation in software development and plan to build upon that to continue my growth. My current focus is working to better understand and improve my knowledge of:
 
 - Mobile Application Devlopment 
 - Data Structures & Algorithms
