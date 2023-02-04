@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hey there 👋
 I am a **Full-Stack Developer.** **Currently Pursuing MSc. In Advance Computer Science at the University of Liverpool**. An experienced and self-motivated software developer with over 4+ years of industry experience. Trained & worked in different javascript libraries and frameworks like React.js, angular and ionic. Highly effective at Front-end / full-stack development. Exceptional interpersonal, communication, and multitasking abilities. Prepared to deliver first-rate results. Strong engineering professional. Currently seeking full-time employment in the UK starting from September 2023. I am also completely open to collaborating on open-source projects with high social or technical impact and private ventures with appropriate compensation. Feel free to contact me at any time! [bhattbalkrishna7@gmail.com](bhattbalkrishna7@gmail.com)
 
 
